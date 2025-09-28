@@ -128,8 +128,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 - GitHub: [@WarleyCoutinho](https://github.com/WarleyCoutinho)
 - LinkedIn: [Warley Coutinho](https://www.linkedin.com/in/coutinho-warley/)
-- Demostração[Conversor-de-moedas](assets/images/demostracao.png)
-- Projeto ====> [Projeto](https://github.com/WarleyCoutinho/conversor_moedas/blob/5ed9caecc480016c026ef1aaeaf14ce7d0d82ad4/assets/images/demostracao.png)
+- Demostração 01 [Conversor-de-moedas](assets/images/demostraacao.png)
+- Demostração 02 [Projeto](assets/images/demostraacao2.png)
 
 ---
 

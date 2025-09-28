@@ -15,10 +15,11 @@ class CurrencyModel {
 
   static List<CurrencyModel> getCurrencies() {
     return [
-      CurrencyModel(name: "Real", real: 1, dolar: 0.20, euro: 0.18, bitcoin: 0.0000047),
-      CurrencyModel(name: "Dólar", real: 5.25, dolar: 1, euro: 0.91, bitcoin: 0.000023),
-      CurrencyModel(name: "Euro", real: 5.75, dolar: 1.10, euro: 1, bitcoin: 0.000025),
-      CurrencyModel(name: "Bitcoin", real: 213000, dolar: 43000, euro: 39000, bitcoin: 1),
+      // Valores atualizados para setembro de 2025
+      CurrencyModel(name: "Real", real: 1, dolar: 0.187, euro: 0.160, bitcoin: 0.0000017),
+      CurrencyModel(name: "Dólar", real: 5.34, dolar: 1, euro: 0.853, bitcoin: 0.0000091),
+      CurrencyModel(name: "Euro", real: 6.25, dolar: 1.17, euro: 1, bitcoin: 0.0000107),
+      CurrencyModel(name: "Bitcoin", real: 586500, dolar: 109900, euro: 93712, bitcoin: 1),
     ];
   }
 }
